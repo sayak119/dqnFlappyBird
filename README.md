@@ -1,2 +1,2 @@
 # dqnFlappyBird
-Play Flappy Birds with Deep Reinforcement Learning
+Play Flappy Birds with Deep Reinforcement Learning.
